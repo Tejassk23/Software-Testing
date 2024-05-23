@@ -1,2 +1,2 @@
 # Software-Testing
-I have performed some programs based on software testing subjects
+I have performed some programs based on software testing subject
